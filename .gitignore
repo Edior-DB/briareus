@@ -1,0 +1,16 @@
+# Obsolete code moved during decoupling
+obsolete/
+
+# Build artifacts
+build/
+builds/
+*.o
+*.so
+*.a
+
+# D language
+.dub/
+docs.json
+*.csv
+
+*.code-w*
